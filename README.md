@@ -22,11 +22,8 @@ final\
   main.ipynb
   
   project_folder\
-  
     app.py
-    
     templates\
-    
       home.html
       
   saved_model\
