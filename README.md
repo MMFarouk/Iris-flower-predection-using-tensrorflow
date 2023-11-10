@@ -19,12 +19,12 @@ final\
   saved_model\
 
 How to run the code:
-1-run each cell in main.ipynb.
+1-run each cell in main.ipynb. "do this step if you don't have 'saved_model' folder"
 2-run app.py.
 3-in the terminal you will find this link ("http://127.0.0.1:5000") you can copy it from the terminal or from here.
 
 or you can run the code using commands in cmd:
-1-run each cell in main.ipynb.
+1-run each cell in main.ipynb. "do this step if you don't have 'saved_model' folder"
 2-open cmd change the path to the folder containing app.py the type this command "python app.py".
 3-you will find the same link which is ("http://127.0.0.1:5000") you can open it then it will run just fine.
 
