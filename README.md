@@ -2,7 +2,7 @@
 
 Description:
 used tensor flow to train a model on the iris dataset and used the model to predict the class of the flower by taking 4 inputs from the user:
-1-sepal length
+1-sepal length                                                                                                                                                                                                                  
 2-sepal width
 3-petal length
 4-petal width
