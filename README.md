@@ -5,13 +5,13 @@
 
 Used tensorflow to train a model on the iris dataset and used the model to predict the class of the flower by taking 4 inputs from the user:
 
-1-sepal length           
+* sepal length           
 
-2-sepal width
+* sepal width
 
-3-petal length
+* petal length
 
-4-petal width
+* petal width
 
 then the class of the flower will appear as the output for the user.
 
