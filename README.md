@@ -21,8 +21,10 @@ download the code folder and make sure that the folder structure be as following
 
 -final\
   --main.ipynb
+  
   --project_folder\
   ---app.py
+  
   ---templates\    
   ----home.html      
   --saved_model\
