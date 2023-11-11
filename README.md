@@ -1,7 +1,7 @@
-### Iris-flower-predection-using-tensrorflow
+### Iris-flower-predection-using-tensrorflow.
 
 
-##Description:
+## Description :
 
 used tensor flow to train a model on the iris dataset and used the model to predict the class of the flower by taking 4 inputs from the user:
 
@@ -53,7 +53,7 @@ or you can run the code using commands in cmd:
 3-you will find the same link which is ("http://127.0.0.1:5000") you can open it then it will run just fine.
 
 
-#Team:
+##Team:
 
 Mohamed mohamed farouk 205011
 
