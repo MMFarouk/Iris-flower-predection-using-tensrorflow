@@ -19,13 +19,19 @@ Tips to run the code:
 download the code folder and make sure that the folder structure be as following to make the code run with no errors:
 
 
-final\
-  main.ipynb
-  project_folder\
-    app.py
-    templates\
-      home.html 
-  saved_model\
+-final\
+
+  --main.ipynb
+  
+  --project_folder\
+  
+  ---app.py
+    
+  ---templates\
+    
+  ----home.html 
+      
+  --saved_model\
   
 
 How to run the code:
