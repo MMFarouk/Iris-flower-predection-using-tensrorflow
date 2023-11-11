@@ -37,7 +37,7 @@ download the code folder and make sure that the folder structure be as following
 
 ## How to run the code:
 
-"." run each cell in main.ipynb. "do this step if you don't have 'saved_model' folder"
+* run each cell in main.ipynb. "do this step if you don't have 'saved_model' folder"
 
 "." run app.py.
 
