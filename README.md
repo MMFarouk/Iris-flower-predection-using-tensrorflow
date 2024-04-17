@@ -51,14 +51,3 @@ or you can run the code using commands in cmd:
 * open cmd change the path to the folder containing app.py the type this command "python app.py".
 
 * you will find the same link which is ("http://127.0.0.1:5000") you can open it then it will run just fine.
-
-
-## Team:
-
-* Mohamed mohamed farouk 205011
-
-* Amr khaled 205015
-
-* Nabil tamer 205079
-
-* Amr tamer 205046
